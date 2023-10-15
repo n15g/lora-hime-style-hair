@@ -26,10 +26,6 @@ Secondary tags: `straight hair`, `hime cut`, `blunted bangs`, `cascading hair`, 
 
 ## Version History
 
-| `XYZ0`                | `XYZ1`                |
-|-----------------------|-----------------------|
-| ![XYZ0](2.0/xyz0.png) | ![XYZ1](2.0/xyz1.png) |
-
 #### v1.0
 
 * Release
